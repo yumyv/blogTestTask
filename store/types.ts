@@ -1,0 +1,4 @@
+export const GET_POSTS = 'GET_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const SET_MESSAGE_POSTS = 'SET_MESSAGE_POSTS';
+export const DELETE_MESSAGE_POSTS = 'DELETE_MESSAGE_POSTS';
